@@ -76,7 +76,7 @@ def ident_winner(move1, move2):
             return 'Jogador 2 ganhou!'
 
 #  if(fps % 90 == 0):: This condition checks if the current frame number (fps)
-#     is divisible by 85 without any remainder. Since the default frame rate for most
+#     is divisible by 90 without any remainder. Since the default frame rate for most
 #     videos is around 30 frames per second (fps), this condition will be true every
 #     3 seconds (90 / 30). This is used to regulate the rate at which the score updates
 #     to avoid counting multiple times for a single move.   
